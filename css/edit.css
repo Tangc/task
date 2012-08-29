@@ -1,0 +1,12 @@
+html, body {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #F2F2F2;
+	width: 100%;
+	min-height: 100%;
+}
+
+.article {
+	margin: 20px 5px 20px 5px;
+}
